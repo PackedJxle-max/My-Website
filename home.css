@@ -1,20 +1,20 @@
 @font-face {
-    src: url("BebasNeue-Regular.ttf");
+    src: url(BebasNeue-Regular.ttf);
     font-family: Bebas Neue;
 }
 
 @font-face {
-    src: url("PlaywriteIS-VariableFont_wght.ttf");
+    src: url(PlaywriteIS-VariableFont_wght.ttf);
     font-family: Playwrite Island;
 }
 
 @font-face {
-    src: url("SourceSans3-VariableFont_wght.ttf");
+    src: url(SourceSans3-VariableFont_wght.tt);
     font-family: Source Sans;
 }
 
 @font-face {
-    src: url("Raleway-VariableFont_wght.ttf");
+    src: url(Raleway-VariableFont_wght.ttf);
     font-family: Raleway;
 }
 
